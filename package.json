@@ -1,0 +1,26 @@
+{
+  "name": "extractlinks-lib",
+  "version": "1.0.0",
+  "description": "Biblioteca que extrai links de arquivo markdown",
+  "main": "index.js",
+  "directories": {
+    "lib": "lib",
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/loraineamaral/extractLinks-lib.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/loraineamaral/extractLinks-lib/issues"
+  },
+  "homepage": "https://github.com/loraineamaral/extractLinks-lib#readme",
+  "dependencies": {
+    "eslint": "^5.16.0"
+  }
+}
