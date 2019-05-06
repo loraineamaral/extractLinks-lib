@@ -5,7 +5,7 @@
   "main": "index.js",
   "directories": {
     "lib": "lib",
-    "test": "test"
+    "test": "mocha nyc"
   },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -14,7 +14,7 @@
     "type": "git",
     "url": "git+https://github.com/loraineamaral/extractLinks-lib.git"
   },
-  "author": "",
+  "author": "Loraine Amaral",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/loraineamaral/extractLinks-lib/issues"
