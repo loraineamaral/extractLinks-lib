@@ -1,6 +1,6 @@
 {
   "name": "getlinks-la",
-  "version": "1.0.4",
+  "version": "1.0.5",
   "description": "Biblioteca que extrai links de arquivo markdown",
   "main": "./lib/index.js",
   "directories": {
