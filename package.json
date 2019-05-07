@@ -1,14 +1,14 @@
 {
-  "name": "extractlinks-lib",
-  "version": "1.0.0",
+  "name": "getlinks-la",
+  "version": "1.0.4",
   "description": "Biblioteca que extrai links de arquivo markdown",
-  "main": "index.js",
+  "main": "./lib/index.js",
   "directories": {
     "lib": "lib",
     "test": "mocha nyc"
   },
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "mocha nyc"
   },
   "repository": {
     "type": "git",
