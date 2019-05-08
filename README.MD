@@ -1,4 +1,4 @@
-# Busca links em arquivo markdown v.1.0.5
+# Busca links em arquivo markdown v.1.0.6
 
 **Esta biblioteca se destina à procurar links em arquivos markdown, para uso em aplicações web.**
 Na versão atual recebe uma string (em formato Markdown) e extrai todos os links encontrados. 
@@ -27,7 +27,7 @@ $  npm install getlinks-la
 
 ## Roadmap oficial do projeto
 
-#### Versão 1.0.5 (released)
+#### Versão 1.0.6 (released)
 - Recebe uma string em formato Markdown
 - Busca se existem links
 - Retorna os links e textos encontrados dentro de um array de objetos
