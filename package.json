@@ -4,11 +4,10 @@
   "description": "Biblioteca que extrai links de arquivo markdown",
   "main": "./lib/index.js",
   "directories": {
-    "lib": "lib",
-    "test": "mocha nyc"
+    "test": "nyc mocha"
   },
   "scripts": {
-    "test": "mocha nyc"
+    "test": "nyc mocha"
   },
   "repository": {
     "type": "git",
